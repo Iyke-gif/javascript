@@ -1,0 +1,11 @@
+{
+  "name": "learningjavascript",
+  "version": "1.0.0",
+  "description": "we are learning new javascript in this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ikechukwu Nwachukwu",
+  "license": "ISC"
+}
